@@ -1,8 +1,6 @@
 class Solution {
     public int differenceOfSum(int[] nums) {
     int elementSum = 0;
-    int digitSum = 0;
-    int difference = 0;
     for(int i = 0;i < nums.length; i++) {
         int digit = nums[i];
         elementSum = elementSum + digit;
