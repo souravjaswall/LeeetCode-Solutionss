@@ -7,7 +7,6 @@ class Solution {
             maxword = len.length;
         }
       }  
-
       return maxword;
     }
 }
