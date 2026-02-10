@@ -6,6 +6,7 @@ a code repo for leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
