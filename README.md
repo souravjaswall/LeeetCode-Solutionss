@@ -28,4 +28,8 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
