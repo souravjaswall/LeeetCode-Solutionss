@@ -32,4 +32,5 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0182-duplicate-emails) |
+| [0595-big-countries](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
