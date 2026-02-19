@@ -6,6 +6,7 @@ a code repo for leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
@@ -46,4 +47,8 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
