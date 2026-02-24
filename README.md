@@ -52,4 +52,16 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
