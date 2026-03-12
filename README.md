@@ -6,6 +6,7 @@ a code repo for leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
@@ -64,4 +65,12 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
