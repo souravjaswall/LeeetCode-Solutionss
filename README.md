@@ -6,6 +6,7 @@ a code repo for leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
@@ -14,6 +15,7 @@ a code repo for leetcode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
@@ -68,9 +70,14 @@ a code repo for leetcode solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
