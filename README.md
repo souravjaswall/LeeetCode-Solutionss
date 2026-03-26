@@ -82,4 +82,12 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
