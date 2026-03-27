@@ -46,6 +46,7 @@ a code repo for leetcode solutions.
 | [0595-big-countries](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0619-biggest-single-number) |
+| [1683-invalid-tweets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
