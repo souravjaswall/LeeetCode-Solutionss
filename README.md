@@ -48,6 +48,7 @@ a code repo for leetcode solutions.
 | [0619-biggest-single-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0620-not-boring-movies) |
 | [1527-patients-with-a-condition](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
