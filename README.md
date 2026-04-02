@@ -70,18 +70,21 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
@@ -109,4 +112,5 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
