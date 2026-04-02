@@ -69,14 +69,17 @@ a code repo for leetcode solutions.
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
