@@ -56,6 +56,7 @@ a code repo for leetcode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -72,6 +73,7 @@ a code repo for leetcode solutions.
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -86,6 +88,7 @@ a code repo for leetcode solutions.
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
@@ -96,6 +99,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
