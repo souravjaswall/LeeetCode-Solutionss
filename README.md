@@ -66,6 +66,7 @@ a code repo for leetcode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 ## Tree
 |  |
@@ -117,4 +118,12 @@ a code repo for leetcode solutions.
 | ------- |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
