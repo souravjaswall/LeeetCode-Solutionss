@@ -7,6 +7,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 ## Tree
 |  |
@@ -105,6 +107,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
