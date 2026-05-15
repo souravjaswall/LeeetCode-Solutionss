@@ -14,6 +14,7 @@ a code repo for leetcode solutions.
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0904-fruit-into-baskets) |
 | [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ a code repo for leetcode solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0904-fruit-into-baskets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -135,4 +137,8 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
