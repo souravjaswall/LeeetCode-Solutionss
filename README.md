@@ -10,6 +10,7 @@ a code repo for leetcode solutions.
 | [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0904-fruit-into-baskets) |
@@ -20,6 +21,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +64,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -110,6 +113,7 @@ a code repo for leetcode solutions.
 | ------- |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +136,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -139,6 +144,7 @@ a code repo for leetcode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
