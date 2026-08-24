@@ -56,6 +56,7 @@ a code repo for leetcode solutions.
 | [0610-triangle-judgement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0620-not-boring-movies) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/1683-invalid-tweets) |
