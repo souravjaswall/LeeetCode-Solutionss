@@ -7,6 +7,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
@@ -111,6 +112,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -158,4 +160,8 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
