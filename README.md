@@ -113,6 +113,7 @@ a code repo for leetcode solutions.
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -164,4 +165,5 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
