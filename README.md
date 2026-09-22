@@ -10,6 +10,7 @@ a code repo for leetcode solutions.
 | [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -43,6 +44,7 @@ a code repo for leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
 | [2942-find-words-containing-character](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/2942-find-words-containing-character) |
 ## Database
@@ -94,6 +96,7 @@ a code repo for leetcode solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0110-balanced-binary-tree) |
@@ -115,6 +118,7 @@ a code repo for leetcode solutions.
 | [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +130,7 @@ a code repo for leetcode solutions.
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
