@@ -23,6 +23,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -135,6 +136,7 @@ a code repo for leetcode solutions.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +173,12 @@ a code repo for leetcode solutions.
 | ------- |
 | [0051-n-queens](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0052-n-queens-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/souravjaswall/LeeetCode-Solutionss/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
